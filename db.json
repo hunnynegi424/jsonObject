@@ -1,0 +1,26 @@
+[
+    {
+      country: 'China',
+      population: 1371980000,
+    },
+    {
+      country: 'India',
+      population: 1276860000,
+    },
+    {
+      country: 'United States',
+      population: 321786000,
+    },
+    {
+      country: 'Indonesia',
+      population: 255461700,
+    },
+    {
+      country: 'Brazil',
+      population: 204873000,
+    },
+    {
+      country: 'Pakistan',
+      population: 190860000,
+    },
+  ];
